@@ -1,0 +1,25 @@
+{
+  "name": "basicrediscaching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwasrvalke/BASICREDISCACHING.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishwasrvalke/BASICREDISCACHING/issues"
+  },
+  "homepage": "https://github.com/vishwasrvalke/BASICREDISCACHING#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "ioredis": "^4.27.6"
+  },
+  "type": "module"
+}
